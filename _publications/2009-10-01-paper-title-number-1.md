@@ -9,7 +9,7 @@ venue: 'Results in Mathematics'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Gerardo M. Escolano, Antonio M. Peralta, Armando R. Villena. &quot; Lie–Trotter Formulae in Jordan–Banach Algebras with Applications to the Study of Spectral-Valued Multiplicative Functionals.&quot; <i>Results Math.</i>. $ \textbf{79}$ (2024), no. 1, Paper No. 17, 22 pp.'
+citation: 'Gerardo M. Escolano, Antonio M. Peralta, Armando R. Villena. &quot; Lie–Trotter Formulae in Jordan–Banach Algebras with Applications to the Study of Spectral-Valued Multiplicative Functionals.&quot; <i>Results Math.</i>. 79 (2024), no. 1, Paper No. 17, 22 pp.'
 ---
 We establish some Lie–Trotter formulae for unital complex Jordan–Banach algebras, showing that for any elements $$a,b,c$$ in a unital complex Jordan-Banach algebra $$\mathfrak{A}$$ the identities 
 
