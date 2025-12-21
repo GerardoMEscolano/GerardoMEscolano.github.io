@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
+
 Soy docotorando en matemáticas en la Universidad de Granada. 
 
 Mi intereses incluyen: 
