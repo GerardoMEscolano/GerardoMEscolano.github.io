@@ -6,8 +6,8 @@ permalink: /publication/Paper_2_2024_Op_Comm
 excerpt: 'This article characterizes all bijective linear maps between certain JBW\\(^*\\)-algebras that preserve operator commutativity in both directions, showing they decompose into a central invertible scaling, a Jordan isomorphism, and a central linear term. It also analyzes additional structure when the map is symmetric, yielding self-adjoint and Jordan *-isomorphic components'
 date: 15/12/2025
 venue: 'Journal of Mathematical Analysis and Applications'
-slidesurl: 'https://GerardoMEscolano.github.io/files/slides2.pdf'
-paperurl: 'https://GerardoMEscolano.github.io/files/paper2.pdf'
+paperurl: 'https://GerardoMEscolano.github.io/files/Paper_2_Op_Com.pdf'
+bibtexurl: 'https://GerardoMEscolano.github.io/files/bibtex1.bib'
 citation: 'Gerardo M. Escolano, Antonio M. Peralta, Armando R. Villena, &quot; Preservers of operator commutativity. &quot; <i>J. Math. Anal. Appl. </i>. 552 (2025), no. 2, Paper No. 129796, 64 pp.'
 ---
 
