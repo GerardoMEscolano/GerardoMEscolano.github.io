@@ -7,7 +7,7 @@ excerpt: 'This article characterizes all bijective linear maps between certain J
 date: 15/12/2025
 venue: 'Journal of Mathematical Analysis and Applications'
 paperurl: 'https://GerardoMEscolano.github.io/files/Paper_2_Op_Com.pdf'
-bibtexurl: 'https://GerardoMEscolano.github.io/files/bibtex1.bib'
+bibtexurl: 'https://GerardoMEscolano.github.io/files/bibtex2.bib'
 citation: 'Gerardo M. Escolano, Antonio M. Peralta, Armando R. Villena, &quot; Preservers of operator commutativity. &quot; <i>J. Math. Anal. Appl. </i>. 552 (2025), no. 2, Paper No. 129796, 64 pp.'
 ---
 
