@@ -32,7 +32,7 @@ $$
 \Phi(x) = z_0 \circ J(x) + \beta(x), \qquad x \in \mathfrak{M}.
 $$
 
-Furthermore, if \\(\Phi\\) is symmetric (i.e., \\( \Phi(x^*) = \Phi(x)^*\\) ), then \\(z_0\\) is self-adjoint, \\(J\\) is a Jordan
+Furthermore, if \\(\Phi\\) is symmetric (i.e., \\( \Phi(x^*) = \Phi(x)^* \\) ), then \\(z_0\\) is self-adjoint, \\(J\\) is a Jordan
 \\(^*\\)-isomorphism, and \\(\beta\\) is symmetric. In addition, when \\( \mathfrak{J}\\) admits no central summands of type \\(I_1\\),
 we describe all symmetric bilinear mappings whose trace is associating, and determine the form of all associating linear
 maps on \\(\mathfrak{J}\\).
