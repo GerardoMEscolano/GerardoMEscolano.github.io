@@ -2,7 +2,7 @@
 title: "Lie–Trotter Formulae in Jordan–Banach Algebras with Applications to the Study of Spectral-Valued Multiplicative Functionals"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Paper_1_2023_LieTrot
 excerpt: 'We establish some Lie–Trotter formulae for unital complex Jordan–Banach algebras. These formulae are employed in the study of spectral-valued (non-necessarily linear) functionals'
 date: 2023-11-22
 venue: 'Results in Mathematics'
